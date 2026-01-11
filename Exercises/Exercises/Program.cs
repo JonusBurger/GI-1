@@ -1,36 +1,49 @@
 ﻿// See https://aka.ms/new-console-template for more information
+// Ausführung der programme
+// RomNumbers();
+//MatMult();
+//printStars();
+//calcEclid()
+
 /* Aufgabe 1 Dreieck aus Stern */
-Console.WriteLine("Enter Number of Stars: ");
-string stringOfStars = Console.ReadLine();
-int numberOfStars = int.Parse(stringOfStars);
-for (int i = 0; i < numberOfStars; i++)
+void printStars()
 {
-    string s = "";
-    for (int j = 0; j <= i; j++)
+    Console.WriteLine("Enter Number of Stars: ");
+    string stringOfStars = Console.ReadLine();
+    int numberOfStars = int.Parse(stringOfStars);
+    for (int i = 0; i < numberOfStars; i++)
     {
-        s = s + "*";
+        string s = "";
+        for (int j = 0; j <= i; j++)
+        {
+            s = s + "*";
+        }
+        Console.WriteLine(s);
     }
-    Console.WriteLine(s);
 }
 
+
 /* Aufgabe 2 Euklidischer Algorithmus */
-Console.WriteLine("Enter number a:");
-int a = int.Parse(Console.ReadLine());
-Console.WriteLine("Enter number b:");
-int b = int.Parse(Console.ReadLine());
-while (a != b)
+void calcEclid()
 {
-    if (a > b)
+    Console.WriteLine("Enter number a:");
+    int a = int.Parse(Console.ReadLine());
+    Console.WriteLine("Enter number b:");
+    int b = int.Parse(Console.ReadLine());
+    while (a != b)
     {
-        a = a - b;
-    }else
-    {
-        b = b - a;
+        if (a > b)
+        {
+            a = a - b;
+        }
+        else
+        {
+            b = b - a;
+        }
     }
+    Console.WriteLine($"GGT ist {a}");
 }
-Console.WriteLine($"GGT ist {a}");
-// RomNumbers();
-MatMult();
+
 /* Aufgabe 3 Römische Zahlen */
 void RomNumbers()
 {
