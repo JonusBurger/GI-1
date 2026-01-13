@@ -1,0 +1,15 @@
+C:\Users\jBerg\source\repos\GI-1\Vorlesgung\BugQuicksort\BugQuicksort\bin\Debug\net10.0\BugQuicksort.exe
+C:\Users\jBerg\source\repos\GI-1\Vorlesgung\BugQuicksort\BugQuicksort\bin\Debug\net10.0\BugQuicksort.deps.json
+C:\Users\jBerg\source\repos\GI-1\Vorlesgung\BugQuicksort\BugQuicksort\bin\Debug\net10.0\BugQuicksort.runtimeconfig.json
+C:\Users\jBerg\source\repos\GI-1\Vorlesgung\BugQuicksort\BugQuicksort\bin\Debug\net10.0\BugQuicksort.dll
+C:\Users\jBerg\source\repos\GI-1\Vorlesgung\BugQuicksort\BugQuicksort\bin\Debug\net10.0\BugQuicksort.pdb
+C:\Users\jBerg\source\repos\GI-1\Vorlesgung\BugQuicksort\BugQuicksort\obj\Debug\net10.0\BugQuicksort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jBerg\source\repos\GI-1\Vorlesgung\BugQuicksort\BugQuicksort\obj\Debug\net10.0\BugQuicksort.AssemblyInfoInputs.cache
+C:\Users\jBerg\source\repos\GI-1\Vorlesgung\BugQuicksort\BugQuicksort\obj\Debug\net10.0\BugQuicksort.AssemblyInfo.cs
+C:\Users\jBerg\source\repos\GI-1\Vorlesgung\BugQuicksort\BugQuicksort\obj\Debug\net10.0\BugQuicksort.csproj.CoreCompileInputs.cache
+C:\Users\jBerg\source\repos\GI-1\Vorlesgung\BugQuicksort\BugQuicksort\obj\Debug\net10.0\BugQuicksort.sourcelink.json
+C:\Users\jBerg\source\repos\GI-1\Vorlesgung\BugQuicksort\BugQuicksort\obj\Debug\net10.0\BugQuicksort.dll
+C:\Users\jBerg\source\repos\GI-1\Vorlesgung\BugQuicksort\BugQuicksort\obj\Debug\net10.0\refint\BugQuicksort.dll
+C:\Users\jBerg\source\repos\GI-1\Vorlesgung\BugQuicksort\BugQuicksort\obj\Debug\net10.0\BugQuicksort.pdb
+C:\Users\jBerg\source\repos\GI-1\Vorlesgung\BugQuicksort\BugQuicksort\obj\Debug\net10.0\BugQuicksort.genruntimeconfig.cache
+C:\Users\jBerg\source\repos\GI-1\Vorlesgung\BugQuicksort\BugQuicksort\obj\Debug\net10.0\ref\BugQuicksort.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jBerg\\source\\repos\\GI-1\\Vorlesgung\\BugQuicksort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4099DA9-6B10-4400-920B-BC1F430F9074}|BugQuicksort\\BugQuicksort.csproj|c:\\users\\jberg\\source\\repos\\gi-1\\vorlesgung\\bugquicksort\\bugquicksort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4099DA9-6B10-4400-920B-BC1F430F9074}|BugQuicksort\\BugQuicksort.csproj|solutionrelative:bugquicksort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jBerg\\source\\repos\\GI-1\\Vorlesgung\\BugQuicksort\\BugQuicksort\\Program.cs",
+              "RelativeDocumentMoniker": "BugQuicksort\\Program.cs",
+              "ToolTip": "C:\\Users\\jBerg\\source\\repos\\GI-1\\Vorlesgung\\BugQuicksort\\BugQuicksort\\Program.cs*",
+              "RelativeToolTip": "BugQuicksort\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T15:00:30.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
